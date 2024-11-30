@@ -22,6 +22,13 @@ Asegúrate de tener instalado:
 ## Instalación
 
 1. Clona este repositorio:
+
    ```bash
-   git clone https://github.com/tu-usuario/rick-and-morty-explorer.git
+   git clone https://github.com/Denilpv08/prueba-tecnica-nextjs.git
+
+   npm install
+
+   cd prueba-tecnica-nextjs
+
+   npm run dev
    ```
